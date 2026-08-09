@@ -1,1 +1,1 @@
-
+# Task 6 – Importance of Patch Management ## Objective Explain patch management, the risks of unpatched systems, and best practices for maintaining secure systems. ## Files - `patch_management_report.md` – Main report ## Learning Outcome This task improved my understanding of vulnerability management, software updates, and organizational patching strategies
