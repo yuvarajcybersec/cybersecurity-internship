@@ -1,7 +1,7 @@
 # Task 6 – Importance of Patch Management
 
 **Type:** Research / Report Task
-**Status:** In Progress
+**Status:** Completed
 
 ---
 
