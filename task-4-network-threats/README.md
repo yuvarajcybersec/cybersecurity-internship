@@ -1,1 +1,1 @@
-
+# Task 4 – Common Network Security Threats ## Objective Research major network security threats and document their impact and mitigation strategies. ## Files - `network_security_threats_report.md` – Main report ## Topics Covered - DoS/DDoS - Man-in-the-Middle - IP Spoofing - DNS Poisoning ## Learning Outcome This task improved my understanding of common network attacks and defensive security controls.
