@@ -1,1 +1,29 @@
+===== BASIC SCAN =====
+Starting Nmap 7.99 at 2026-08-09 13:11 +0530
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.0000010s latency).
+All 1000 scanned ports on localhost (127.0.0.1) are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+Nmap done: 1 IP address (1 host up) scanned in 0.09 second
 
+
+===== SERVICE VERSION SCAN =====
+Starting Nmap 7.99 at 2026-08-09 13:12 +0530
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.0000010s latency).
+All 1000 scanned ports on localhost (127.0.0.1) are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+Service detection performed.
+Nmap done: 1 IP address (1 host up) scanned in 0.39 seconds
+
+
+===== OS DETECTION SCAN =====
+Starting Nmap 7.99 at 2026-08-09 13:13 +0530
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000044s latency).
+All 1000 scanned ports on localhost (127.0.0.1) are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 0 hops
+OS detection performed.
+Nmap done: 1 IP address (1 host up) scanned in 1.77 seconds
