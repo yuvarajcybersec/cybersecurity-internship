@@ -1,27 +1,27 @@
+Main README.md
 # Cybersecurity Internship Tasks
 
 ## Candidate Details
-
-* Name: Yuvaraj S
-* Internship: Cybersecurity Internship
-* GitHub Repository: https://github.com/yuvarajcybersec/cybersecurity-internship
+- Name: Your Name
+- Internship: Cybersecurity Internship
+- GitHub Repository: https://github.com/YOUR-USERNAME/cybersecurity-internship
 
 ## Completed Tasks
 
-1. Task 1 – Research Report: Social Engineering Attacks 
-2. Task 2 – Research Report: The Importance of Patch Management
-3. Task 3 – Research Report: Common Network Security Threats
-4. Task 4 – Basic Network Scanning with Nmap
+| Task | Title | Type |
+|------|-------|------|
+| Task 1 | Basic Network Scanning with Nmap | Practical |
+| Task 4 | Common Network Security Threats | Research |
+| Task 5 | Social Engineering Attacks | Research |
+| Task 6 | Importance of Patch Management | Research |
 
 ## Repository Structure
 
-Each task folder contains:
-
-* `report.md`
-* screenshots
-* scripts/tools used
-* supporting files
+- `task-1-nmap-scan/` → Nmap practical task
+- `task-4-network-threats/` → Research report
+- `task-5-social-engineering/` → Research report
+- `task-6-patch-management/` → Research report
 
 ## Declaration
 
-All tasks were completed by me as part of the internship requirements.
+I confirm that all tasks in this repository were completed by me for the Cybersecurity Internship program.
